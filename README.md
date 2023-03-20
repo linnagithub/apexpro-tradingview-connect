@@ -2,6 +2,7 @@
 
 This tutorial is to help automate your trading strategies by connecting TradingView's alerts to ApeX Pro exchange's(https://pro.apex.exchange/trade) API. 
 Here's a step-by-step guide. It's all free!!
+
 https://tradingview-connector.gitbook.io/tradingview-alert-connector-tutorial/
 
 # Installation
